@@ -2,5 +2,17 @@
   "schemaVersion": 1,
   "channel": "android-preview",
   "packageName": "dev.vegscript.cocktails.preview",
-  "release": null
+  "release": {
+    "versionName": "1.0.4",
+    "versionCode": 5,
+    "minimumSdk": 29,
+    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.0.4-5/Cocktails-Preview-1.0.4-5-b1231100fe45.apk",
+    "bytes": 74072036,
+    "sha256": "b1231100fe457bf0ccd10969b1b20df94de69098325f1c28952b723e4ed9e490",
+    "certificateSha256": "da8419c84fd961194a94379a5384479e8fe6f4d3759c4d07a04b7c20fda05686",
+    "notes": {
+      "de": "App-Updates direkt in Cocktails: mit Downloadfortschritt, Dateiprüfung und bestätigter Android-Installation. Der Cocktailkatalog wird unabhängig davon aktualisiert.",
+      "en": "App updates directly in Cocktails: download progress, file checks and installation confirmed through Android. The cocktail catalogue updates independently."
+    }
+  }
 }
