@@ -3,16 +3,16 @@
   "channel": "android-preview",
   "packageName": "dev.vegscript.cocktails.preview",
   "release": {
-    "versionName": "1.2.0",
-    "versionCode": 8,
+    "versionName": "1.3.0",
+    "versionCode": 9,
     "minimumSdk": 29,
-    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.2.0-8/Cocktails-Preview-1.2.0-8-c67cda736a3a.apk",
-    "bytes": 75220715,
-    "sha256": "c67cda736a3a6c2aa06d55e5ba5e7f8066d2abf7ca0ef218d3ba56aca38153c9",
+    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.3.0-9/Cocktails-Preview-1.3.0-9-65ff0ab39142.apk",
+    "bytes": 75388651,
+    "sha256": "65ff0ab391427ef022b9684c1854caa4d8e8cafbe71e46610af80679b00fa82b",
     "certificateSha256": "da8419c84fd961194a94379a5384479e8fe6f4d3759c4d07a04b7c20fda05686",
     "notes": {
-      "de": "Neues Cocktailerlebnis mit randfüllender Bildfolge, kompaktem Rezept und Zubereitung. Überarbeitete Suche, Meine Bar, Barwissen und Einstellungen; verbesserte Messhilfen, Beiträge und Offline-Bilder. Separater Test vor der allgemeinen Freigabe.",
-      "en": "A new cocktail experience with edge-to-edge images, a compact recipe and preparation view. Redesigned search, My Bar, Bar Guide and settings, with improved measuring tools, contributions and offline images. Separate preview before general release."
+      "de": "Entdecken mit Bilderfeed und getrennten Merklisten. Neue Cocktail-Weltkarte, Kalender und Zeitstrahl; überarbeitete Meine Bar, Suche und Galerie. Bessere Bildtexte, zugängliche Bedienung und korrigierte Kommentare. Deine bestehenden Daten bleiben erhalten.",
+      "en": "Discover with an image feed and separate saved images and cocktails. A new cocktail world map, calendar and timeline, with improved My Bar, search and gallery. Better image captions, accessible controls and corrected comments. Your existing data is preserved."
     }
   }
 }
