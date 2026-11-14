@@ -3,16 +3,16 @@
   "channel": "android-preview",
   "packageName": "dev.vegscript.cocktails.preview",
   "release": {
-    "versionName": "1.5.3",
-    "versionCode": 17,
+    "versionName": "1.5.4",
+    "versionCode": 18,
     "minimumSdk": 29,
-    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.5.3-17/Cocktails-Preview-1.5.3-17-89402306b7fe.apk",
-    "bytes": 75490994,
-    "sha256": "89402306b7fe2c5004943cdf83339d71319ced77377e22d4c7b6eac8d4229c2e",
+    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.5.4-18/Cocktails-Preview-1.5.4-18-b0a5299a08d0.apk",
+    "bytes": 75507378,
+    "sha256": "b0a5299a08d0bbc514161bdcb14727027176a7493d70a86d93e7c341e6e31070",
     "certificateSha256": "da8419c84fd961194a94379a5384479e8fe6f4d3759c4d07a04b7c20fda05686",
     "notes": {
-      "de": "Alle Mixschritte sind auch mit leerer Bar zugänglich. Utensilien und Zutaten kannst du direkt beim Mixen abhaken und den Rest auf Wunsch in Meine Bar speichern.",
-      "en": "View every mixing step with an empty bar. Check off tools and ingredients as you mix and choose whether to save the remaining stock to My Bar."
+      "de": "Der fertige Cocktail bekommt einen eigenen Abschluss. Mixe direkt noch einen oder hinterlasse mit deinem Konto Sterne und einen Kommentar.",
+      "en": "See the finished drink at the end of the mix. Start another or use your account to leave a rating and a comment."
     }
   }
 }
