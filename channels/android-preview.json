@@ -3,16 +3,16 @@
   "channel": "android-preview",
   "packageName": "dev.vegscript.cocktails.preview",
   "release": {
-    "versionName": "1.4.0",
-    "versionCode": 11,
+    "versionName": "1.4.2",
+    "versionCode": 13,
     "minimumSdk": 29,
-    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.4.0-11/Cocktails-Preview-1.4.0-11-d7cec755495c.apk",
-    "bytes": 75421419,
-    "sha256": "d7cec755495c3fb80d97f41bfb85349a059cc8c479117c3225854b0c10fdbea4",
+    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.4.2-13/Cocktails-Preview-1.4.2-13-cd8d7f8f0962.apk",
+    "bytes": 75376306,
+    "sha256": "cd8d7f8f0962446b34043c8ce7bc2463a42962b3371eff4d42ca43a85f1c7276",
     "certificateSha256": "da8419c84fd961194a94379a5384479e8fe6f4d3759c4d07a04b7c20fda05686",
     "notes": {
-      "de": "Cocktails aus einem Guss: direkter Weg vom Bild ins Rezept, verlässliches Fortsetzen, persönliche Sammlung und klarere Suche, Meine Bar und Barwissen. Verbesserte Touch-Bedienung, große Schrift und Offline-Darstellung.",
-      "en": "A more coherent Cocktails app: images open recipes directly, reliable mix resuming, a personal collection and clearer Search, My Bar and Bar Knowledge. Improved touch controls, large text and offline presentation."
+      "de": "Weniger Leisten, mehr Platz für Bilder und Rezepte. Entdecken startet mit dem Bilderfeed, die Hauptnavigation schwebt und Aktionen sitzen direkt am Inhalt.",
+      "en": "More room for photos and recipes. Discover starts with the photo feed, the main navigation floats and actions sit next to the content."
     }
   }
 }
