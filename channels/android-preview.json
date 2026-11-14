@@ -3,16 +3,16 @@
   "channel": "android-preview",
   "packageName": "dev.vegscript.cocktails.preview",
   "release": {
-    "versionName": "1.4.2",
-    "versionCode": 13,
+    "versionName": "1.5.2",
+    "versionCode": 16,
     "minimumSdk": 29,
-    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.4.2-13/Cocktails-Preview-1.4.2-13-cd8d7f8f0962.apk",
-    "bytes": 75376306,
-    "sha256": "cd8d7f8f0962446b34043c8ce7bc2463a42962b3371eff4d42ca43a85f1c7276",
+    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.5.2-16/Cocktails-Preview-1.5.2-16-f771960c7fdb.apk",
+    "bytes": 75470514,
+    "sha256": "f771960c7fdbbe24d9223143fa4c4082f2cd9b6da62993e43b26e9aa10ac823d",
     "certificateSha256": "da8419c84fd961194a94379a5384479e8fe6f4d3759c4d07a04b7c20fda05686",
     "notes": {
-      "de": "Weniger Leisten, mehr Platz für Bilder und Rezepte. Entdecken startet mit dem Bilderfeed, die Hauptnavigation schwebt und Aktionen sitzen direkt am Inhalt.",
-      "en": "More room for photos and recipes. Discover starts with the photo feed, the main navigation floats and actions sit next to the content."
+      "de": "Schritt für Schritt mixen mit Animationen für alle 40 Cocktails. Die Szenen passen sich an das Rezept und deine Utensilien an. Rezepte und Bilder öffnen sich als aufgleitende Karten.",
+      "en": "Mix step by step with animations for all 40 cocktails. The scenes follow your recipe and equipment. Recipes and photos open in cards that slide up."
     }
   }
 }
