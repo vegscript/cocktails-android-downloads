@@ -3,16 +3,16 @@
   "channel": "android-preview",
   "packageName": "dev.vegscript.cocktails.preview",
   "release": {
-    "versionName": "1.5.4",
-    "versionCode": 18,
+    "versionName": "1.6.1",
+    "versionCode": 20,
     "minimumSdk": 29,
-    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.5.4-18/Cocktails-Preview-1.5.4-18-b0a5299a08d0.apk",
-    "bytes": 75507378,
-    "sha256": "b0a5299a08d0bbc514161bdcb14727027176a7493d70a86d93e7c341e6e31070",
+    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.6.1-20/Cocktails-Preview-1.6.1-20-955ed0ffcdd1.apk",
+    "bytes": 75806386,
+    "sha256": "955ed0ffcdd1490d397825ca72c32cb848293f1707c25d0974c9727a93312c94",
     "certificateSha256": "da8419c84fd961194a94379a5384479e8fe6f4d3759c4d07a04b7c20fda05686",
     "notes": {
-      "de": "Der fertige Cocktail bekommt einen eigenen Abschluss. Mixe direkt noch einen oder hinterlasse mit deinem Konto Sterne und einen Kommentar.",
-      "en": "See the finished drink at the end of the mix. Start another or use your account to leave a rating and a comment."
+      "de": "Zehn neue Klassiker mit je drei Galeriebildern, passenden Zutatenanimationen und verlinkten Rezeptvarianten für Tom und John Collins.",
+      "en": "Ten new classics with three gallery images each, matching ingredient animations and linked recipe variants for Tom and John Collins."
     }
   }
 }
