@@ -3,16 +3,16 @@
   "channel": "android-preview",
   "packageName": "dev.vegscript.cocktails.preview",
   "release": {
-    "versionName": "1.6.2",
-    "versionCode": 21,
+    "versionName": "1.7.0",
+    "versionCode": 23,
     "minimumSdk": 29,
-    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.6.2-21/Cocktails-Preview-1.6.2-21-54f603a7f318.apk",
-    "bytes": 75810482,
-    "sha256": "54f603a7f3189135e7923e652080f0084027a477fb0e1c68647acf937a60d931",
+    "apkUrl": "https://github.com/vegscript/cocktails-android-downloads/releases/download/android-preview-1.7.0-23/Cocktails-Preview-1.7.0-23-6021ea3ce3be.apk",
+    "bytes": 74940330,
+    "sha256": "6021ea3ce3be5cd8cb93cc1f33ad7510a5ce5ff42d8d586705fc02464ad3c9b3",
     "certificateSha256": "da8419c84fd961194a94379a5384479e8fe6f4d3759c4d07a04b7c20fda05686",
     "notes": {
-      "de": "Abgerundete Vorschaubilder in der Rezeptgalerie und unter geöffneten Fotos.",
-      "en": "Rounded thumbnails in recipe galleries and below opened photos."
+      "de": "Vollständig geprüfte Inhalte, schnellere Cocktailkarte und verlässliche Offline-Speicherung. Deine gespeicherten Mixe bleiben erhalten.",
+      "en": "Fully validated content, a faster cocktail menu and reliable offline storage. Your saved mixes are preserved."
     }
   }
 }
